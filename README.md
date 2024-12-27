@@ -1,7 +1,7 @@
 # Lumber Defect Classifier
 
 This project classifies lumber defects using texture features extracted from grayscale image sections. It implements a `BayesianDefectClassifier` for defect classification based on statistical and co-occurrence matrix-based texture features.
-
+https://www.semanticscholar.org/paper/Identifying-and-Locating-Surface-Defects-in-Wood%3A-Conners-McMillin/bbb3e359bdc32e5771f4d193726893e10913fe1e
 ## Features
 
 - Extracts statistical features: Mean, Variance, Skewness, Kurtosis.
